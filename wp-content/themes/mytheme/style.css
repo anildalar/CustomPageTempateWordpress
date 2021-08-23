@@ -1,0 +1,21 @@
+/*
+    Theme Name: ABC
+    Version: 1.0.0
+    Author: OKLABS
+    Author URI: https://oklabs.in
+*/
+
+body{
+}
+
+header,footer{
+    height: 250px;
+    border:1px dashed red;
+}
+div.main{
+    min-height: 900px;
+    border:1px dashed green;
+}
+.tbdr{
+    border:1px dashed orange;
+}
